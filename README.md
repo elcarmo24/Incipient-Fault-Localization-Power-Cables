@@ -1,6 +1,6 @@
 # Incipient-Fault-Localization-Power-Cables
 ## Licença
-Este projeto está licenciado sob a Licença GPL-3.0. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença GPL-3.0. Veja o arquivo [License](./LICENSE) para mais detalhes.
 
 Algorithm to localizate incipient faults in insulated power cables
 The Incipient Fault Locator in Power Cables using Metallic Sheaths provides a high-precision method for detecting and pinpointing incipient faults in the metallic sheaths of single-bonded underground cables. By measuring currents and voltages, this tool offers a reliable solution for continuous fault monitoring and localization.
