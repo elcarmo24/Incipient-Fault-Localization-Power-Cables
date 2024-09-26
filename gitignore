@@ -1,0 +1,50 @@
+# Arquivos temporários e de cache do MATLAB
+*.asv
+*.m~ 
+*.mlx~
+*.mdmp
+*.mex*
+*.log
+*.rpt
+*.out
+*.tmp
+*.sv
+*.autosave
+
+# Diretório de preferências do MATLAB
+.matlab/
+
+# Arquivos e pastas gerados por ferramentas de build ou compilação
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.mexw32
+*.mexw64
+*.mexglx
+*.mexa64
+
+# Arquivos gerados automaticamente durante simulações
+slprj/
+*.slx.autosave
+*.slxc
+*.mdl.autosave
+*.slx
+*.sim
+*.mex*
+*.tlc
+*.rsf
+
+# Arquivos de backup do MATLAB Editor
+*~backup.m
+
+# Logs e saídas de execução
+*.log
+*.out
+
+# Outros
+*.ctf   # Arquivos MATLAB Compiler
+*.prj   # Arquivos de projeto do MATLAB Compiler
+*.asv   # Arquivos de salvamento automático do MATLAB
